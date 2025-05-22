@@ -1,1 +1,0 @@
-# SP25_SDA_MID_LAB
